@@ -1,0 +1,46 @@
+Test#1: Activate 5.5 6.9 3.5 PayCredit Approved Super StartPump PumpLiter StopPump Receipt TurnOff 
+Test#2: Activate 5.5 6.9 3.5 PayCredit Approved Regular StartPump PumpLiter PumpLiter StopPump Receipt PayCredit Reject TurnOff
+Test#3: Activate 5.5 6.9 3.5 TurnOff
+Test#4: Activate 5.5 6.9 3.5 PayCredit Reject PayCredit Approved Cancel PayCredit Approved Regular StartPump PumpLiter StopPump Receipt TurnOff 
+Test#5: Activate 5.9 8.9 2.5 PayCredit Approved Cancel TurnOff  
+Test#6: Activate 6.8 7.8 3.9 PayCash 2 Cancel PayCash 20 Regular Cancel TurnOff 
+Test#7: Activate 6.5 7.4 4.3 PayCash 1 Cancel PayCash 20 Super StartPump StopPump Receipt TurnOff 
+Test#8: Activate 5.5 6.9 3.5 PayCredit Reject PayCash 30 Diesel StartPump StopPump NoReceipt PayCredit Reject TurnOff 
+Test#9: Activate 5.5 6.8 4.2 PayCredit Approved Cancel PayCash 2 Diesel StartPump PumpLiter Receipt PayCash 3 Cancel TurnOff
+Test#10: Activate 4.5 5.8 2.7 PayCredit Approved Super Cancel TurnOff
+Test#11: Activate 5.5 6.7 2.3 PayCash 20 Super StartPump PumpLiter PumpLiter StopPump Receipt TurnOff 
+Test#12: Activate 4 5 6 PayCredit Reject PayCredit Approved Diesel StartPump StopPump NoReceipt PayCash 10 Cancel TurnOff
+Test#13: Activate 4.5 5.2 3.5 PayCredit Approved Diesel Cancel PayCash 10 Regular Cancel TurnOff 
+Test#14: Activate 3 4 5 PayCash 20 Super StartPump PumpLiter PumpLiter StopPump StopPump Receipt TurnOff
+Test#15: Activate 3 4 5 PayCash 7 Regular StartPump PumpLiter PumpLiter PumpLiter Receipt TurnOff
+Test#16: Activate 3 4 5 PayCredit Reject PayCash 20 Diesel Cancel PayCredit Reject TurnOff
+Test#17: Activate 4.5 5.7 3.2 Activate 4 8.8 2.5 PayCash -20 Reject Cancel Approved Regular Diesel Super StartPump PumpLiter StopPump Receipt NoReceipt PayCash 20 Cancel TurnOff
+Test#18: Activate 4.5 5.7 3.2 PayCredit Approved Super StartPump Activate 4 5 9 PayCredit Cancel Reject PayCash 50 Approved Regular Diesel Super PumpLiter StopPump Receipt TurnOff
+Test#19: Activate 4.5 5.7 3.2 PayCredit Activate 5 6 7 PayCash 10 PayCredit Cancel Super Regular Diesel StartPump PumpLiter StopPump Receipt NoReceipt TurnOff Reject TurnOff 
+Test#20: Activate 3 5 7 PayCash 15 Activate 3 5 8 PayCredit PayCash 10 Reject Approved StartPump PumpLiter StopPump NoReceipt Receipt TurnOff Cancel TurnOff 
+Test#21: Activate 4 5 6 PayCredit Approved Regular Activate 2 3 4 Approved PayCredit Reject PayCash 5 Regular Super Diesel PumpLiter StopPump NoReceipt Receipt TurnOff StartPump Receipt TurnOff 
+Test#22: Activate 4 5 6 PayCash 30 Regular StartPump Activate 1 3 2 PayCredit Cancel Reject Approved PayCash 2 Regular Super Diesel StartPump NoReceipt Receipt TurnOff PumpLiter StopPump Receipt TurnOff 
+Test#23: Activate 4 5 6 PayCredit Approved Regular StartPump StopPump Activate 2 3 5 PayCredit Reject Approved Cancel PayCash 6 Regular Super Diesel StartPump PumpLiter StopPump TurnOff Receipt TurnOff
+Test#24: Activate 4 5 -6
+Test#25: Activate 4 -5 6
+Test#26: Activate -4 5 -6
+Test#27: Activate -4 5 6
+Test#28: Activate -4 5 -6
+Test#29: Activate -4 -5 6
+Test#30: Activate -4 -5 -6
+Test#31: Activate 4 5 6 Activate 4 5 -6
+Test#32: Activate 4 5 6 Activate 4 -5 6
+Test#33: Activate 4 5 6 Activate 4 -5 -6 
+Test#34: Activate 4 5 6 Activate -4 5 6
+Test#35: Activate 4 5 6 Activate -4 5 -6
+Test#36: Activate 4 5 6 Activate -4 -5 6
+Test#37: Activate 4 5 6 Activate -4 -5 -6
+Test#38: Activate 4 5 6 PayCash 1 Cancel TurnOff 
+Test#39: Activate 4 5 6 PayCash -5 PayCash 6 PayCredit Regular Cancel TurnOff
+Test#40: Activate 4 5 6 PayCash -4 PayCash 6 PayCredit Super StartPump PumpLiter StopPump NoReceipt TurnOff
+Test#41: Activate 4 5 6 Receipt NoReceipt PayCash 9 Super StartPump PumpLiter PumpLiter Receipt TurnOff
+Test#42: Activate 2 3 4 PayCash 10 Diesel StartPump PumpLiter StopPump Receipt TurnOff
+Test#43: Activate 2 3 4 PayCash 3 Super StartPump PumpLiter StopPump Receipt TurnOff
+Test#44: Activate 4 5 6 PayCredit PayCash -5 PayCash 6 Approved Super PumpLiter StartPump PumpLiter StartPump StopPump TurnOff Receipt TurnOff
+Test#45: Activate 4 5 6 PayCash 3 Cancel PayCredit Approved Regular StartPump PumpLiter StopPump NoReceipt TurnOff
+$$
